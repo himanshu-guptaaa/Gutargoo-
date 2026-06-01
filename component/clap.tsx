@@ -91,7 +91,7 @@ export default function GutargooLocalSection() {
                 className="w-full h-full object-cover"
                 aria-label="Preview of local regional content streaming"
               >
-                <source src="/MapSquare.mp4" type="video/mp4" />
+                <source src="/map.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
             </div>
