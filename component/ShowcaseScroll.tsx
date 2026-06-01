@@ -18,7 +18,7 @@ const landscapeShows = [
   "/landscape (2).webp",
   "/landscape (3).webp",
   "/networker 3.webp",
-  "/Landscape (5).webp",
+  "/landscape (5).webp",
   "/landscape (6).webp",
   "/landscape alien frank.webp",
   "/landscape.webp", // Fixed missing leading slash from your original code
