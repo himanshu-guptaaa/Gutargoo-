@@ -7,7 +7,7 @@ export default function Navbar() {
      
       <Link href="/">
         <img 
-          src="/Logo GG+.webp" 
+          src="/logo GG+.webp" 
           alt="Gutargoo Plus" 
           className="h-6 md:h-7 w-auto object-contain" 
         />
