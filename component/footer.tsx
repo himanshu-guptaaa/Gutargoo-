@@ -34,7 +34,7 @@ export default function Footer() {
           {/* Brand/Social Column */}
           <div className="flex flex-col gap-4 md:col-span-2">
             <div className="h-6 flex items-center">
-              <img src="/Logo GG+.webp" alt="Gutargoo Plus Logo" className="h-6 w-auto object-contain" />
+              <img src="/logo.webp" alt="Gutargoo Plus Logo" className="h-6 w-auto object-contain" />
             </div>
             <p className="text-sm text-white/35 font-medium">Made with ❤️ in India</p>
             
